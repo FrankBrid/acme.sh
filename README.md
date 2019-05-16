@@ -1,4 +1,5 @@
 https://i.congm.in/ssl/
+https://my.oschina.net/kimver/blog/1634575#comment-list
 
 
 # An ACME Shell script: acme.sh [![Build Status](https://travis-ci.org/Neilpang/acme.sh.svg?branch=master)](https://travis-ci.org/Neilpang/acme.sh)
